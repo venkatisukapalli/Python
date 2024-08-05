@@ -7,3 +7,7 @@
   print(type(x))
   print(type(y))
   print(type(z))
+
+  #text = str
+  a=venkat
+  print(type(a))
